@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Conf_Sum" type="CompoundRunConfigurationType">
+    <toRun name="Conf_Client1" type="Application" />
+    <toRun name="Conf_Client2" type="Application" />
+    <toRun name="Conf_Client3" type="Application" />
+    <toRun name="Conf_Server" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>
